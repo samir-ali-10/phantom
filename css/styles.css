@@ -58,8 +58,9 @@ ul {
     padding: 15px 0;
     margin: 0 auto 70px auto;
     position: relative;
-    font-size: 4rem;
+    font-size: 2.7rem;
     z-index: 1;
+    text-transform: uppercase;
   }
 
   .main-title::before,
